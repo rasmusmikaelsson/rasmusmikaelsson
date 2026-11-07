@@ -1,7 +1,7 @@
 # About Me:
 Currently pursuing a Master's degree in Computer Science and Engineering. Passionate about software development, programming, and problem-solving. Continuously expanding my technical skills through academic coursework and personal projects.
 
-## Get in tounch:
+# Get in tounch:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rasmus.mikaelsson05) 
 
 # Tech Stack:
@@ -10,9 +10,6 @@ Currently pursuing a Master's degree in Computer Science and Engineering. Passio
 # GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=rasmusmikaelsson&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rasmusmikaelsson&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rasmusmikaelsson&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
